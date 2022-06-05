@@ -1,17 +1,19 @@
-# Getting started with React-tw-components
+# Getting started with react-tw-components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was started to give examples of how you can build components using React and Tailwind CSS.
 
-This project was started to give examples of how we can build some components using React and Tailwind CSS.
+## Installation
 
-### `npm start`
+>1. **git clone https://github.com/Blathe/react-tw-components.git**
+>
+>2. **cd react-tw-components**
+>3. **npm install**
+>4. **npm start**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Starting the example app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+>**npm start**
 
-## Learn More
+Navigate to http://localhost:3000
 
-Will clean up readme later.
+This will load an example app with a variety of components you can browse and try out.
