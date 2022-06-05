@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
           <Router>
-            <div className="flex flex-row">
+            <div className="flex flex-col sm:flex-row">
             <SideNavbar />
             <Routes>
               <Route exact path ='/' element={<Home />} />
